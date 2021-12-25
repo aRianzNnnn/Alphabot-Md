@@ -86,7 +86,7 @@ exports.notNum = (q) => {
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname} 😖*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu RianzBOT :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -259,6 +259,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ My Parents
 ├ Fatih A.
 ├ Ferdi
+├ Rianz Ganz
 ├ DikaArdnt
 ├ Mhankbarbar
 ├ Nurutomo
@@ -333,7 +334,7 @@ exports.tos = (ownernomer) => {
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 0887435047326 (OVO/Dana/GoPay)
+🏧 088295385233 (OVO/Dana/GoPay)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
