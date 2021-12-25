@@ -256,16 +256,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 
 ╭─❒ 「 TqTo 」 
 ├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ Rianz Ganz
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
 ╰❒ And All Support
 
     `
